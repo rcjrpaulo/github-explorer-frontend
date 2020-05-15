@@ -11,3 +11,18 @@ yarn add eslint-plugin-react@^7.19.0 @typescript-eslint/eslint-plugin@latest esl
 yarn add eslint-import-resolver-typescript -D
 
 yarn add prettier eslint-config-prettier eslint-plugin-prettier -D
+
+yarn add react-router-dom
+
+yarn add -D @types/react-router-dom
+
+yarn add styled-components
+
+yarn add -D @types/styled-components
+
+yarn add polished
+
+yarn add react-icons
+
+yarn add axios
+
